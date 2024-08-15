@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-DogancanBicakci&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DogancanBicakci&theme=dark)](https://git.io/streak-stats)
 
 
 
