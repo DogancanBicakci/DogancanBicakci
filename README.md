@@ -7,8 +7,8 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/dogancanbicakci/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="dogancanbicakci@hotmail.com">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+  <a href="https://t.me/canndogan">
+   <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
