@@ -22,7 +22,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on  <b> everything to improve my skills  <b/>
-- 🌱 I’m currently learning <strong> React <strong/>
+- 🌱 I’m currently learning <b> React <b/>
 - 💬 Ask me about <b> Vanilla.js, .Net <b/>
 - ⚡ Fun fact: <b> I love playing drums, swimming, thinking-reading about psychology, sociology and philosophy <b/> 
 
